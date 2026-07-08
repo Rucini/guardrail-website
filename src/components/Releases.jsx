@@ -30,7 +30,7 @@ const Releases = () => {
 
     return (
         <section className="releases-container">
-            <h2>Release History</h2>
+            <h2>Release story</h2>
             <p className="releases-subtitle">Track the latest updates, features, and security patches for the Guardrail CLI.</p>
 
             <div className="releases-timeline">

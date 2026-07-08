@@ -36,7 +36,7 @@ function App() {
       </main>
 
       <footer>
-        <p>Guardrail CLI is Open Source (MIT License). Built to protect production environments.</p>
+        <p>Guardrail CLI is Open Source (Made by Ruth). Built to protect production environments.</p>
       </footer>
     </div>
   );

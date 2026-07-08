@@ -4,7 +4,7 @@ import './Documentation.css';
 const Documentation = () => {
     return (
         <section className="docs-container">
-            <h2>Documentation</h2>
+            <h2>specifications</h2>
 
             <div className="doc-section">
                 <h3>1. Installation</h3>
